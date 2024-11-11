@@ -1,0 +1,6 @@
+gym
+pygame
+torch
+numpy
+matplotlib
+pyyaml  # Optional, only needed if using config files
